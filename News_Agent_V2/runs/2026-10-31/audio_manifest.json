@@ -1,0 +1,820 @@
+{
+  "date": "2026-10-31",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+20%",
+  "total_seconds": 64.32,
+  "scenes": [
+    {
+      "index": 0,
+      "kind": "hook",
+      "file": "audio/scene_00.mp3",
+      "spoken_text": "Hello, and welcome! Here are today's top ten headlines from Tamil Nadu and India.",
+      "on_screen": "TODAY'S TOP 10 HEADLINES",
+      "words": [
+        {
+          "w": "Hello,",
+          "start": 0.1,
+          "end": 0.647
+        },
+        {
+          "w": "and",
+          "start": 0.647,
+          "end": 0.959
+        },
+        {
+          "w": "welcome!",
+          "start": 0.959,
+          "end": 1.778
+        },
+        {
+          "w": "Here",
+          "start": 1.778,
+          "end": 2.503
+        },
+        {
+          "w": "are",
+          "start": 2.503,
+          "end": 2.607
+        },
+        {
+          "w": "today's",
+          "start": 2.607,
+          "end": 2.972
+        },
+        {
+          "w": "top",
+          "start": 2.972,
+          "end": 3.211
+        },
+        {
+          "w": "ten",
+          "start": 3.211,
+          "end": 3.42
+        },
+        {
+          "w": "headlines",
+          "start": 3.42,
+          "end": 3.93
+        },
+        {
+          "w": "from",
+          "start": 3.93,
+          "end": 4.139
+        },
+        {
+          "w": "Tamil",
+          "start": 4.139,
+          "end": 4.451
+        },
+        {
+          "w": "Nadu",
+          "start": 4.451,
+          "end": 4.826
+        },
+        {
+          "w": "and",
+          "start": 4.826,
+          "end": 4.982
+        },
+        {
+          "w": "India.",
+          "start": 4.982,
+          "end": 5.362
+        }
+      ],
+      "start": 0.0,
+      "duration": 6.1
+    },
+    {
+      "index": 1,
+      "kind": "story",
+      "file": "audio/scene_01.mp3",
+      "spoken_text": "Centre approved a BharatNet subsidy for Tamil Nadu rural fibre connections.",
+      "on_screen": "BharatNet Subsidy Approved For Tamil Nadu",
+      "words": [
+        {
+          "w": "Centre",
+          "start": 0.1,
+          "end": 0.595
+        },
+        {
+          "w": "approved",
+          "start": 0.595,
+          "end": 0.991
+        },
+        {
+          "w": "a",
+          "start": 0.991,
+          "end": 1.053
+        },
+        {
+          "w": "BharatNet",
+          "start": 1.053,
+          "end": 1.532
+        },
+        {
+          "w": "subsidy",
+          "start": 1.532,
+          "end": 2.032
+        },
+        {
+          "w": "for",
+          "start": 2.032,
+          "end": 2.199
+        },
+        {
+          "w": "Tamil",
+          "start": 2.199,
+          "end": 2.491
+        },
+        {
+          "w": "Nadu",
+          "start": 2.491,
+          "end": 2.834
+        },
+        {
+          "w": "rural",
+          "start": 2.834,
+          "end": 3.168
+        },
+        {
+          "w": "fibre",
+          "start": 3.168,
+          "end": 3.553
+        },
+        {
+          "w": "connections.",
+          "start": 3.553,
+          "end": 4.215
+        }
+      ],
+      "start": 6.35,
+      "duration": 4.94
+    },
+    {
+      "index": 2,
+      "kind": "story",
+      "file": "audio/scene_02.mp3",
+      "spoken_text": "Tamil Nadu raised health insurance income limit to 2.5 lakh rupees.",
+      "on_screen": "Health Insurance Income Limit Raised",
+      "words": [
+        {
+          "w": "Tamil",
+          "start": 0.1,
+          "end": 0.439
+        },
+        {
+          "w": "Nadu",
+          "start": 0.439,
+          "end": 0.751
+        },
+        {
+          "w": "raised",
+          "start": 0.751,
+          "end": 1.105
+        },
+        {
+          "w": "health",
+          "start": 1.105,
+          "end": 1.386
+        },
+        {
+          "w": "insurance",
+          "start": 1.386,
+          "end": 1.886
+        },
+        {
+          "w": "income",
+          "start": 1.886,
+          "end": 2.251
+        },
+        {
+          "w": "limit",
+          "start": 2.251,
+          "end": 2.532
+        },
+        {
+          "w": "to",
+          "start": 2.532,
+          "end": 2.626
+        },
+        {
+          "w": "2.5",
+          "start": 2.626,
+          "end": 3.428
+        },
+        {
+          "w": "lakh",
+          "start": 3.428,
+          "end": 3.699
+        },
+        {
+          "w": "rupees.",
+          "start": 3.699,
+          "end": 4.162
+        }
+      ],
+      "start": 11.54,
+      "duration": 4.9
+    },
+    {
+      "index": 3,
+      "kind": "story",
+      "file": "audio/scene_03.mp3",
+      "spoken_text": "Tamil Nadu granted five years age relaxation for TNPSC Group exams.",
+      "on_screen": "Age Relaxation For TNPSC Exams",
+      "words": [
+        {
+          "w": "Tamil",
+          "start": 0.1,
+          "end": 0.418
+        },
+        {
+          "w": "Nadu",
+          "start": 0.418,
+          "end": 0.668
+        },
+        {
+          "w": "granted",
+          "start": 0.668,
+          "end": 1.053
+        },
+        {
+          "w": "five",
+          "start": 1.053,
+          "end": 1.376
+        },
+        {
+          "w": "years",
+          "start": 1.376,
+          "end": 1.699
+        },
+        {
+          "w": "age",
+          "start": 1.699,
+          "end": 1.928
+        },
+        {
+          "w": "relaxation",
+          "start": 1.928,
+          "end": 2.605
+        },
+        {
+          "w": "for",
+          "start": 2.605,
+          "end": 2.761
+        },
+        {
+          "w": "TNPSC",
+          "start": 2.761,
+          "end": 3.491
+        },
+        {
+          "w": "Group",
+          "start": 3.491,
+          "end": 3.73
+        },
+        {
+          "w": "exams.",
+          "start": 3.73,
+          "end": 4.267
+        }
+      ],
+      "start": 16.69,
+      "duration": 4.99
+    },
+    {
+      "index": 4,
+      "kind": "story",
+      "file": "audio/scene_04.mp3",
+      "spoken_text": "Tamil Nadu projected a peak power deficit of 6,162 MW.",
+      "on_screen": "Tamil Nadu Projects Power Deficit",
+      "words": [
+        {
+          "w": "Tamil",
+          "start": 0.1,
+          "end": 0.407
+        },
+        {
+          "w": "Nadu",
+          "start": 0.407,
+          "end": 0.699
+        },
+        {
+          "w": "projected",
+          "start": 0.699,
+          "end": 1.178
+        },
+        {
+          "w": "a",
+          "start": 1.178,
+          "end": 1.241
+        },
+        {
+          "w": "peak",
+          "start": 1.241,
+          "end": 1.48
+        },
+        {
+          "w": "power",
+          "start": 1.48,
+          "end": 1.761
+        },
+        {
+          "w": "deficit",
+          "start": 1.761,
+          "end": 2.189
+        },
+        {
+          "w": "of",
+          "start": 2.189,
+          "end": 2.324
+        },
+        {
+          "w": "6,162",
+          "start": 2.324,
+          "end": 3.966
+        },
+        {
+          "w": "MW.",
+          "start": 3.966,
+          "end": 4.787
+        }
+      ],
+      "start": 21.93,
+      "duration": 5.5
+    },
+    {
+      "index": 5,
+      "kind": "story",
+      "file": "audio/scene_05.mp3",
+      "spoken_text": "Police recaptured 17 escaped remand prisoners in Theni within 42 hours.",
+      "on_screen": "17 Escaped Jail Prisoners Recaptured",
+      "words": [
+        {
+          "w": "Police",
+          "start": 0.1,
+          "end": 0.501
+        },
+        {
+          "w": "recaptured",
+          "start": 0.501,
+          "end": 1.116
+        },
+        {
+          "w": "17",
+          "start": 1.116,
+          "end": 1.636
+        },
+        {
+          "w": "escaped",
+          "start": 1.636,
+          "end": 2.064
+        },
+        {
+          "w": "remand",
+          "start": 2.064,
+          "end": 2.459
+        },
+        {
+          "w": "prisoners",
+          "start": 2.459,
+          "end": 2.918
+        },
+        {
+          "w": "in",
+          "start": 2.918,
+          "end": 3.053
+        },
+        {
+          "w": "Theni",
+          "start": 3.053,
+          "end": 3.366
+        },
+        {
+          "w": "within",
+          "start": 3.366,
+          "end": 3.657
+        },
+        {
+          "w": "42",
+          "start": 3.657,
+          "end": 3.924
+        },
+        {
+          "w": "hours.",
+          "start": 3.924,
+          "end": 4.59
+        }
+      ],
+      "start": 27.67,
+      "duration": 5.33
+    },
+    {
+      "index": 6,
+      "kind": "story",
+      "file": "audio/scene_06.mp3",
+      "spoken_text": "ISRO launched the NVS-03 navigation satellite to help restore NavIC.",
+      "on_screen": "ISRO Launches NVS-03 Navigation Satellite",
+      "words": [
+        {
+          "w": "ISRO",
+          "start": 0.1,
+          "end": 0.439
+        },
+        {
+          "w": "launched",
+          "start": 0.439,
+          "end": 0.866
+        },
+        {
+          "w": "the",
+          "start": 0.866,
+          "end": 1.032
+        },
+        {
+          "w": "NVS-03",
+          "start": 1.032,
+          "end": 2.084
+        },
+        {
+          "w": "navigation",
+          "start": 2.084,
+          "end": 2.689
+        },
+        {
+          "w": "satellite",
+          "start": 2.689,
+          "end": 3.209
+        },
+        {
+          "w": "to",
+          "start": 3.209,
+          "end": 3.314
+        },
+        {
+          "w": "help",
+          "start": 3.314,
+          "end": 3.584
+        },
+        {
+          "w": "restore",
+          "start": 3.584,
+          "end": 3.991
+        },
+        {
+          "w": "NavIC.",
+          "start": 3.991,
+          "end": 4.61
+        }
+      ],
+      "start": 33.25,
+      "duration": 5.35
+    },
+    {
+      "index": 7,
+      "kind": "story",
+      "file": "audio/scene_07.mp3",
+      "spoken_text": "A Union minister stated that sanctions are distorting global energy markets.",
+      "on_screen": "Global Energy Market Distortions Criticized",
+      "words": [
+        {
+          "w": "A",
+          "start": 0.1,
+          "end": 0.23
+        },
+        {
+          "w": "Union",
+          "start": 0.23,
+          "end": 0.647
+        },
+        {
+          "w": "minister",
+          "start": 0.647,
+          "end": 1.022
+        },
+        {
+          "w": "stated",
+          "start": 1.022,
+          "end": 1.397
+        },
+        {
+          "w": "that",
+          "start": 1.397,
+          "end": 1.564
+        },
+        {
+          "w": "sanctions",
+          "start": 1.564,
+          "end": 2.084
+        },
+        {
+          "w": "are",
+          "start": 2.084,
+          "end": 2.189
+        },
+        {
+          "w": "distorting",
+          "start": 2.189,
+          "end": 2.709
+        },
+        {
+          "w": "global",
+          "start": 2.709,
+          "end": 3.084
+        },
+        {
+          "w": "energy",
+          "start": 3.084,
+          "end": 3.47
+        },
+        {
+          "w": "markets.",
+          "start": 3.47,
+          "end": 4.006
+        }
+      ],
+      "start": 38.85,
+      "duration": 4.73
+    },
+    {
+      "index": 8,
+      "kind": "story",
+      "file": "audio/scene_08.mp3",
+      "spoken_text": "Supreme Court ruled failed relationships cannot turn consensual sex into rape.",
+      "on_screen": "Supreme Court Rules On Consensual Sex",
+      "words": [
+        {
+          "w": "Supreme",
+          "start": 0.1,
+          "end": 0.534
+        },
+        {
+          "w": "Court",
+          "start": 0.534,
+          "end": 0.845
+        },
+        {
+          "w": "ruled",
+          "start": 0.845,
+          "end": 1.116
+        },
+        {
+          "w": "failed",
+          "start": 1.116,
+          "end": 1.47
+        },
+        {
+          "w": "relationships",
+          "start": 1.47,
+          "end": 2.157
+        },
+        {
+          "w": "cannot",
+          "start": 2.157,
+          "end": 2.47
+        },
+        {
+          "w": "turn",
+          "start": 2.47,
+          "end": 2.709
+        },
+        {
+          "w": "consensual",
+          "start": 2.709,
+          "end": 3.282
+        },
+        {
+          "w": "sex",
+          "start": 3.282,
+          "end": 3.605
+        },
+        {
+          "w": "into",
+          "start": 3.605,
+          "end": 3.814
+        },
+        {
+          "w": "rape.",
+          "start": 3.814,
+          "end": 4.121
+        }
+      ],
+      "start": 43.83,
+      "duration": 4.85
+    },
+    {
+      "index": 9,
+      "kind": "story",
+      "file": "audio/scene_09.mp3",
+      "spoken_text": "Supreme Court asked Centre to address courtroom video feed misuse.",
+      "on_screen": "Action Sought On Court Feed Misuse",
+      "words": [
+        {
+          "w": "Supreme",
+          "start": 0.1,
+          "end": 0.565
+        },
+        {
+          "w": "Court",
+          "start": 0.565,
+          "end": 0.897
+        },
+        {
+          "w": "asked",
+          "start": 0.897,
+          "end": 1.157
+        },
+        {
+          "w": "Centre",
+          "start": 1.157,
+          "end": 1.553
+        },
+        {
+          "w": "to",
+          "start": 1.553,
+          "end": 1.772
+        },
+        {
+          "w": "address",
+          "start": 1.772,
+          "end": 2.105
+        },
+        {
+          "w": "courtroom",
+          "start": 2.105,
+          "end": 2.543
+        },
+        {
+          "w": "video",
+          "start": 2.543,
+          "end": 2.814
+        },
+        {
+          "w": "feed",
+          "start": 2.814,
+          "end": 3.116
+        },
+        {
+          "w": "misuse.",
+          "start": 3.116,
+          "end": 3.631
+        }
+      ],
+      "start": 48.93,
+      "duration": 4.37
+    },
+    {
+      "index": 10,
+      "kind": "story",
+      "file": "audio/scene_10.mp3",
+      "spoken_text": "Jaishankar met Canadian Foreign Minister Anita Anand at a G20 event.",
+      "on_screen": "Jaishankar Meets Canadian Foreign Minister",
+      "words": [
+        {
+          "w": "Jaishankar",
+          "start": 0.1,
+          "end": 0.689
+        },
+        {
+          "w": "met",
+          "start": 0.689,
+          "end": 0.907
+        },
+        {
+          "w": "Canadian",
+          "start": 0.907,
+          "end": 1.345
+        },
+        {
+          "w": "Foreign",
+          "start": 1.345,
+          "end": 1.668
+        },
+        {
+          "w": "Minister",
+          "start": 1.668,
+          "end": 2.126
+        },
+        {
+          "w": "Anita",
+          "start": 2.126,
+          "end": 2.511
+        },
+        {
+          "w": "Anand",
+          "start": 2.511,
+          "end": 2.886
+        },
+        {
+          "w": "at",
+          "start": 2.886,
+          "end": 3.074
+        },
+        {
+          "w": "a",
+          "start": 3.074,
+          "end": 3.178
+        },
+        {
+          "w": "G20",
+          "start": 3.178,
+          "end": 3.668
+        },
+        {
+          "w": "event.",
+          "start": 3.668,
+          "end": 4.09
+        }
+      ],
+      "start": 53.55,
+      "duration": 4.82
+    },
+    {
+      "index": 11,
+      "kind": "outro",
+      "file": "audio/scene_11.mp3",
+      "spoken_text": "That's all for now. Follow us for your daily news from Tamil Nadu and India.",
+      "on_screen": "FOLLOW FOR DAILY NEWS",
+      "words": [
+        {
+          "w": "That's",
+          "start": 0.1,
+          "end": 0.439
+        },
+        {
+          "w": "all",
+          "start": 0.439,
+          "end": 0.657
+        },
+        {
+          "w": "for",
+          "start": 0.657,
+          "end": 0.793
+        },
+        {
+          "w": "now.",
+          "start": 0.793,
+          "end": 1.466
+        },
+        {
+          "w": "Follow",
+          "start": 1.466,
+          "end": 2.274
+        },
+        {
+          "w": "us",
+          "start": 2.274,
+          "end": 2.43
+        },
+        {
+          "w": "for",
+          "start": 2.43,
+          "end": 2.555
+        },
+        {
+          "w": "your",
+          "start": 2.555,
+          "end": 2.701
+        },
+        {
+          "w": "daily",
+          "start": 2.701,
+          "end": 3.003
+        },
+        {
+          "w": "news",
+          "start": 3.003,
+          "end": 3.284
+        },
+        {
+          "w": "from",
+          "start": 3.284,
+          "end": 3.503
+        },
+        {
+          "w": "Tamil",
+          "start": 3.503,
+          "end": 3.795
+        },
+        {
+          "w": "Nadu",
+          "start": 3.795,
+          "end": 4.159
+        },
+        {
+          "w": "and",
+          "start": 4.159,
+          "end": 4.326
+        },
+        {
+          "w": "India.",
+          "start": 4.326,
+          "end": 4.717
+        }
+      ],
+      "start": 58.62,
+      "duration": 5.45
+    }
+  ]
+}
