@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-04",
+  "scenes": [
+    {
+      "kind": "hook",
+      "story_index": null,
+      "narration": "Hello, and welcome! Here are today's top ten headlines from Tamil Nadu and India.",
+      "on_screen": "TODAY'S TOP 10 HEADLINES",
+      "estimated_seconds": 5.85
+    },
+    {
+      "kind": "story",
+      "story_index": 0,
+      "narration": "The Enforcement Directorate searched eleven locations in Kerala and Tamil Nadu.",
+      "on_screen": "ED Raids 11 Locations",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 1,
+      "narration": "Nine Chennai fishermen are missing at sea during Cyclone Murasu.",
+      "on_screen": "Fishermen Missing In Cyclone",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 2,
+      "narration": "Tamil Nadu will form district taxpayer panels to resolve grievances.",
+      "on_screen": "District Taxpayer Panels Announced",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 3,
+      "narration": "Tamil Nadu mandated battery storage for solar projects above one megawatt.",
+      "on_screen": "Battery Storage Mandatory For Solar",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 4,
+      "narration": "Tamil Nadu limited Diwali firecracker bursting to two total hours.",
+      "on_screen": "Diwali Firecrackers Limited Two Hours",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 5,
+      "narration": "The IndiaAI Mission introduced three indigenous AI foundation models.",
+      "on_screen": "IndiaAI Launches Indigenous Models",
+      "estimated_seconds": 3.85
+    },
+    {
+      "kind": "story",
+      "story_index": 6,
+      "narration": "The government proposed adding ten medical import gateways across India.",
+      "on_screen": "Ten Medical Import Gateways Proposed",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 7,
+      "narration": "Keralam's Home Minister directed a vigilance probe against Gyanesh Kumar.",
+      "on_screen": "Vigilance Probe Against CEC Ordered",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 8,
+      "narration": "Delhi recorded an Air Quality Index of 379 on November fourth.",
+      "on_screen": "Delhi Air Quality Reaches 379",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 9,
+      "narration": "Adani Airports advised foreign airlines to shift operations to Navi Mumbai.",
+      "on_screen": "Foreign Airlines Directed To Move",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "outro",
+      "story_index": null,
+      "narration": "That's all for now. Follow us for your daily news from Tamil Nadu and India.",
+      "on_screen": "FOLLOW FOR DAILY NEWS",
+      "estimated_seconds": 6.25
+    }
+  ],
+  "caption": "Here are today's top stories from Tamil Nadu and across India for November 4, 2026.\n\nTamil Nadu\n1. ED Raids 11 Locations Over Money Laundering\n2. Nine Chennai Fishermen Missing Amid Cyclone Murasu\n3. Tamil Nadu to Form District Taxpayer Panels\n4. Tamil Nadu Mandates Battery Storage for Solar Projects\n5. Tamil Nadu Restricts Diwali Firecrackers to Two Hours\n\nIndia\n1. IndiaAI Mission Releases Indigenous AI Models\n2. Centre Proposes New Medical Import Gateways\n3. Vigilance Probe Ordered Against CEC Gyanesh Kumar\n4. Delhi Reels Under Severe Air Pollution\n5. Foreign Airlines Told to Move to Navi Mumbai\n\nSources: DT Next, Deccan Chronicle, Moneycontrol.com, The Hindu, The New Indian Express\n\n#IndiaNews #TamilNadu #DelhiPollution #IndiaAI #CurrentAffairs",
+  "hashtags": [
+    "#IndiaNews",
+    "#TamilNadu",
+    "#DelhiPollution",
+    "#IndiaAI",
+    "#CurrentAffairs"
+  ],
+  "total_seconds": 55.8
+}

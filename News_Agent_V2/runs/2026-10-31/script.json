@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-31",
+  "scenes": [
+    {
+      "kind": "hook",
+      "story_index": null,
+      "narration": "Hello, and welcome! Here are today's top ten headlines from Tamil Nadu and India.",
+      "on_screen": "TODAY'S TOP 10 HEADLINES",
+      "estimated_seconds": 5.85
+    },
+    {
+      "kind": "story",
+      "story_index": 0,
+      "narration": "Centre approved a BharatNet subsidy for Tamil Nadu rural fibre connections.",
+      "on_screen": "BharatNet Subsidy Approved For Tamil Nadu",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 1,
+      "narration": "Tamil Nadu raised health insurance income limit to 2.5 lakh rupees.",
+      "on_screen": "Health Insurance Income Limit Raised",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 2,
+      "narration": "Tamil Nadu granted five years age relaxation for TNPSC Group exams.",
+      "on_screen": "Age Relaxation For TNPSC Exams",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 3,
+      "narration": "Tamil Nadu projected a peak power deficit of 6,162 MW.",
+      "on_screen": "Tamil Nadu Projects Power Deficit",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 4,
+      "narration": "Police recaptured 17 escaped remand prisoners in Theni within 42 hours.",
+      "on_screen": "17 Escaped Jail Prisoners Recaptured",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 5,
+      "narration": "ISRO launched the NVS-03 navigation satellite to help restore NavIC.",
+      "on_screen": "ISRO Launches NVS-03 Navigation Satellite",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 6,
+      "narration": "A Union minister stated that sanctions are distorting global energy markets.",
+      "on_screen": "Global Energy Market Distortions Criticized",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 7,
+      "narration": "Supreme Court ruled failed relationships cannot turn consensual sex into rape.",
+      "on_screen": "Supreme Court Rules On Consensual Sex",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "story",
+      "story_index": 8,
+      "narration": "Supreme Court asked Centre to address courtroom video feed misuse.",
+      "on_screen": "Action Sought On Court Feed Misuse",
+      "estimated_seconds": 4.25
+    },
+    {
+      "kind": "story",
+      "story_index": 9,
+      "narration": "Jaishankar met Canadian Foreign Minister Anita Anand at a G20 event.",
+      "on_screen": "Jaishankar Meets Canadian Foreign Minister",
+      "estimated_seconds": 4.65
+    },
+    {
+      "kind": "outro",
+      "story_index": null,
+      "narration": "That's all for now. Follow us for your daily news from Tamil Nadu and India.",
+      "on_screen": "FOLLOW FOR DAILY NEWS",
+      "estimated_seconds": 6.25
+    }
+  ],
+  "caption": "Here are today's top news updates from Tamil Nadu and across India.\n\nTamil Nadu\n1. Centre Approves BharatNet Subsidy in Tamil Nadu\n2. Tamil Nadu Raises Health Insurance Income Limit\n3. Age Relaxation Announced for TNPSC Group Exams\n4. Tamil Nadu Projects 6,162 MW Power Deficit\n5. Police Recapture 17 Escaped Remand Prisoners\n\nIndia\n1. ISRO Launches Next-Generation NVS-03 Navigation Satellite\n2. India Criticizes Global Energy Market Distortions\n3. Supreme Court Rules On Consensual Sex Cases\n4. Supreme Court Addresses Online Court Feed Misuse\n5. Jaishankar Meets Canadian Counterpart At G20 Event\n\nSources: BW Businessworld, DT Next, The Hindu, The New Indian Express\n\n#TamilNadu #IndiaNews #ISRO #SupremeCourt #BharatNet",
+  "hashtags": [
+    "#TamilNadu",
+    "#IndiaNews",
+    "#ISRO",
+    "#SupremeCourt",
+    "#BharatNet"
+  ],
+  "total_seconds": 57.4
+}

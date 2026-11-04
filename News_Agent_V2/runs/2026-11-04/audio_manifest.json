@@ -1,0 +1,800 @@
+{
+  "date": "2026-11-04",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+20%",
+  "total_seconds": 61.22,
+  "scenes": [
+    {
+      "index": 0,
+      "kind": "hook",
+      "file": "audio/scene_00.mp3",
+      "spoken_text": "Hello, and welcome! Here are today's top ten headlines from Tamil Nadu and India.",
+      "on_screen": "TODAY'S TOP 10 HEADLINES",
+      "words": [
+        {
+          "w": "Hello,",
+          "start": 0.1,
+          "end": 0.647
+        },
+        {
+          "w": "and",
+          "start": 0.647,
+          "end": 0.959
+        },
+        {
+          "w": "welcome!",
+          "start": 0.959,
+          "end": 1.778
+        },
+        {
+          "w": "Here",
+          "start": 1.778,
+          "end": 2.503
+        },
+        {
+          "w": "are",
+          "start": 2.503,
+          "end": 2.607
+        },
+        {
+          "w": "today's",
+          "start": 2.607,
+          "end": 2.972
+        },
+        {
+          "w": "top",
+          "start": 2.972,
+          "end": 3.211
+        },
+        {
+          "w": "ten",
+          "start": 3.211,
+          "end": 3.42
+        },
+        {
+          "w": "headlines",
+          "start": 3.42,
+          "end": 3.93
+        },
+        {
+          "w": "from",
+          "start": 3.93,
+          "end": 4.139
+        },
+        {
+          "w": "Tamil",
+          "start": 4.139,
+          "end": 4.451
+        },
+        {
+          "w": "Nadu",
+          "start": 4.451,
+          "end": 4.826
+        },
+        {
+          "w": "and",
+          "start": 4.826,
+          "end": 4.982
+        },
+        {
+          "w": "India.",
+          "start": 4.982,
+          "end": 5.362
+        }
+      ],
+      "start": 0.0,
+      "duration": 6.1
+    },
+    {
+      "index": 1,
+      "kind": "story",
+      "file": "audio/scene_01.mp3",
+      "spoken_text": "The Enforcement Directorate searched eleven locations in Kerala and Tamil Nadu.",
+      "on_screen": "ED Raids 11 Locations",
+      "words": [
+        {
+          "w": "The",
+          "start": 0.1,
+          "end": 0.303
+        },
+        {
+          "w": "Enforcement",
+          "start": 0.303,
+          "end": 0.886
+        },
+        {
+          "w": "Directorate",
+          "start": 0.886,
+          "end": 1.459
+        },
+        {
+          "w": "searched",
+          "start": 1.459,
+          "end": 1.886
+        },
+        {
+          "w": "eleven",
+          "start": 1.886,
+          "end": 2.282
+        },
+        {
+          "w": "locations",
+          "start": 2.282,
+          "end": 2.845
+        },
+        {
+          "w": "in",
+          "start": 2.845,
+          "end": 2.991
+        },
+        {
+          "w": "Kerala",
+          "start": 2.991,
+          "end": 3.386
+        },
+        {
+          "w": "and",
+          "start": 3.386,
+          "end": 3.636
+        },
+        {
+          "w": "Tamil",
+          "start": 3.636,
+          "end": 3.918
+        },
+        {
+          "w": "Nadu.",
+          "start": 3.918,
+          "end": 4.298
+        }
+      ],
+      "start": 6.35,
+      "duration": 5.02
+    },
+    {
+      "index": 2,
+      "kind": "story",
+      "file": "audio/scene_02.mp3",
+      "spoken_text": "Nine Chennai fishermen are missing at sea during Cyclone Murasu.",
+      "on_screen": "Fishermen Missing In Cyclone",
+      "words": [
+        {
+          "w": "Nine",
+          "start": 0.1,
+          "end": 0.501
+        },
+        {
+          "w": "Chennai",
+          "start": 0.501,
+          "end": 0.834
+        },
+        {
+          "w": "fishermen",
+          "start": 0.834,
+          "end": 1.355
+        },
+        {
+          "w": "are",
+          "start": 1.355,
+          "end": 1.501
+        },
+        {
+          "w": "missing",
+          "start": 1.501,
+          "end": 1.845
+        },
+        {
+          "w": "at",
+          "start": 1.845,
+          "end": 1.991
+        },
+        {
+          "w": "sea",
+          "start": 1.991,
+          "end": 2.199
+        },
+        {
+          "w": "during",
+          "start": 2.199,
+          "end": 2.511
+        },
+        {
+          "w": "Cyclone",
+          "start": 2.511,
+          "end": 3.032
+        },
+        {
+          "w": "Murasu.",
+          "start": 3.032,
+          "end": 3.454
+        }
+      ],
+      "start": 11.61,
+      "duration": 4.18
+    },
+    {
+      "index": 3,
+      "kind": "story",
+      "file": "audio/scene_03.mp3",
+      "spoken_text": "Tamil Nadu will form district taxpayer panels to resolve grievances.",
+      "on_screen": "District Taxpayer Panels Announced",
+      "words": [
+        {
+          "w": "Tamil",
+          "start": 0.1,
+          "end": 0.439
+        },
+        {
+          "w": "Nadu",
+          "start": 0.439,
+          "end": 0.751
+        },
+        {
+          "w": "will",
+          "start": 0.751,
+          "end": 0.897
+        },
+        {
+          "w": "form",
+          "start": 0.897,
+          "end": 1.22
+        },
+        {
+          "w": "district",
+          "start": 1.22,
+          "end": 1.616
+        },
+        {
+          "w": "taxpayer",
+          "start": 1.616,
+          "end": 2.136
+        },
+        {
+          "w": "panels",
+          "start": 2.136,
+          "end": 2.553
+        },
+        {
+          "w": "to",
+          "start": 2.553,
+          "end": 2.657
+        },
+        {
+          "w": "resolve",
+          "start": 2.657,
+          "end": 3.126
+        },
+        {
+          "w": "grievances.",
+          "start": 3.126,
+          "end": 3.902
+        }
+      ],
+      "start": 16.04,
+      "duration": 4.63
+    },
+    {
+      "index": 4,
+      "kind": "story",
+      "file": "audio/scene_04.mp3",
+      "spoken_text": "Tamil Nadu mandated battery storage for solar projects above one megawatt.",
+      "on_screen": "Battery Storage Mandatory For Solar",
+      "words": [
+        {
+          "w": "Tamil",
+          "start": 0.1,
+          "end": 0.418
+        },
+        {
+          "w": "Nadu",
+          "start": 0.418,
+          "end": 0.699
+        },
+        {
+          "w": "mandated",
+          "start": 0.699,
+          "end": 1.168
+        },
+        {
+          "w": "battery",
+          "start": 1.168,
+          "end": 1.543
+        },
+        {
+          "w": "storage",
+          "start": 1.543,
+          "end": 1.959
+        },
+        {
+          "w": "for",
+          "start": 1.959,
+          "end": 2.105
+        },
+        {
+          "w": "solar",
+          "start": 2.105,
+          "end": 2.449
+        },
+        {
+          "w": "projects",
+          "start": 2.449,
+          "end": 2.897
+        },
+        {
+          "w": "above",
+          "start": 2.897,
+          "end": 3.251
+        },
+        {
+          "w": "one",
+          "start": 3.251,
+          "end": 3.501
+        },
+        {
+          "w": "megawatt.",
+          "start": 3.501,
+          "end": 4.069
+        }
+      ],
+      "start": 20.92,
+      "duration": 4.8
+    },
+    {
+      "index": 5,
+      "kind": "story",
+      "file": "audio/scene_05.mp3",
+      "spoken_text": "Tamil Nadu limited Diwali firecracker bursting to two total hours.",
+      "on_screen": "Diwali Firecrackers Limited Two Hours",
+      "words": [
+        {
+          "w": "Tamil",
+          "start": 0.1,
+          "end": 0.439
+        },
+        {
+          "w": "Nadu",
+          "start": 0.439,
+          "end": 0.72
+        },
+        {
+          "w": "limited",
+          "start": 0.72,
+          "end": 1.116
+        },
+        {
+          "w": "Diwali",
+          "start": 1.116,
+          "end": 1.47
+        },
+        {
+          "w": "firecracker",
+          "start": 1.47,
+          "end": 2.126
+        },
+        {
+          "w": "bursting",
+          "start": 2.126,
+          "end": 2.584
+        },
+        {
+          "w": "to",
+          "start": 2.584,
+          "end": 2.678
+        },
+        {
+          "w": "two",
+          "start": 2.678,
+          "end": 2.814
+        },
+        {
+          "w": "total",
+          "start": 2.814,
+          "end": 3.209
+        },
+        {
+          "w": "hours.",
+          "start": 3.209,
+          "end": 3.59
+        }
+      ],
+      "start": 25.97,
+      "duration": 4.32
+    },
+    {
+      "index": 6,
+      "kind": "story",
+      "file": "audio/scene_06.mp3",
+      "spoken_text": "The IndiaAI Mission introduced three indigenous AI foundation models.",
+      "on_screen": "IndiaAI Launches Indigenous Models",
+      "words": [
+        {
+          "w": "The",
+          "start": 0.1,
+          "end": 0.345
+        },
+        {
+          "w": "IndiaAI",
+          "start": 0.345,
+          "end": 0.845
+        },
+        {
+          "w": "Mission",
+          "start": 0.845,
+          "end": 1.189
+        },
+        {
+          "w": "introduced",
+          "start": 1.189,
+          "end": 1.751
+        },
+        {
+          "w": "three",
+          "start": 1.751,
+          "end": 2.053
+        },
+        {
+          "w": "indigenous",
+          "start": 2.053,
+          "end": 2.605
+        },
+        {
+          "w": "AI",
+          "start": 2.605,
+          "end": 2.886
+        },
+        {
+          "w": "foundation",
+          "start": 2.886,
+          "end": 3.449
+        },
+        {
+          "w": "models.",
+          "start": 3.449,
+          "end": 3.923
+        }
+      ],
+      "start": 30.54,
+      "duration": 4.63
+    },
+    {
+      "index": 7,
+      "kind": "story",
+      "file": "audio/scene_07.mp3",
+      "spoken_text": "The government proposed adding ten medical import gateways across India.",
+      "on_screen": "Ten Medical Import Gateways Proposed",
+      "words": [
+        {
+          "w": "The",
+          "start": 0.1,
+          "end": 0.261
+        },
+        {
+          "w": "government",
+          "start": 0.261,
+          "end": 0.678
+        },
+        {
+          "w": "proposed",
+          "start": 0.678,
+          "end": 1.147
+        },
+        {
+          "w": "adding",
+          "start": 1.147,
+          "end": 1.511
+        },
+        {
+          "w": "ten",
+          "start": 1.511,
+          "end": 1.741
+        },
+        {
+          "w": "medical",
+          "start": 1.741,
+          "end": 2.116
+        },
+        {
+          "w": "import",
+          "start": 2.116,
+          "end": 2.491
+        },
+        {
+          "w": "gateways",
+          "start": 2.491,
+          "end": 2.949
+        },
+        {
+          "w": "across",
+          "start": 2.949,
+          "end": 3.334
+        },
+        {
+          "w": "India.",
+          "start": 3.334,
+          "end": 3.715
+        }
+      ],
+      "start": 35.42,
+      "duration": 4.44
+    },
+    {
+      "index": 8,
+      "kind": "story",
+      "file": "audio/scene_08.mp3",
+      "spoken_text": "Keralam's Home Minister directed a vigilance probe against Gyanesh Kumar.",
+      "on_screen": "Vigilance Probe Against CEC Ordered",
+      "words": [
+        {
+          "w": "Keralam's",
+          "start": 0.1,
+          "end": 0.532
+        },
+        {
+          "w": "Home",
+          "start": 0.532,
+          "end": 0.793
+        },
+        {
+          "w": "Minister",
+          "start": 0.793,
+          "end": 1.209
+        },
+        {
+          "w": "directed",
+          "start": 1.209,
+          "end": 1.689
+        },
+        {
+          "w": "a",
+          "start": 1.689,
+          "end": 1.772
+        },
+        {
+          "w": "vigilance",
+          "start": 1.772,
+          "end": 2.241
+        },
+        {
+          "w": "probe",
+          "start": 2.241,
+          "end": 2.574
+        },
+        {
+          "w": "against",
+          "start": 2.574,
+          "end": 3.043
+        },
+        {
+          "w": "Gyanesh",
+          "start": 3.043,
+          "end": 3.418
+        },
+        {
+          "w": "Kumar.",
+          "start": 3.418,
+          "end": 3.84
+        }
+      ],
+      "start": 40.11,
+      "duration": 4.56
+    },
+    {
+      "index": 9,
+      "kind": "story",
+      "file": "audio/scene_09.mp3",
+      "spoken_text": "Delhi recorded an Air Quality Index of 379 on November fourth.",
+      "on_screen": "Delhi Air Quality Reaches 379",
+      "words": [
+        {
+          "w": "Delhi",
+          "start": 0.1,
+          "end": 0.48
+        },
+        {
+          "w": "recorded",
+          "start": 0.48,
+          "end": 0.907
+        },
+        {
+          "w": "an",
+          "start": 0.907,
+          "end": 1.084
+        },
+        {
+          "w": "Air",
+          "start": 1.084,
+          "end": 1.272
+        },
+        {
+          "w": "Quality",
+          "start": 1.272,
+          "end": 1.678
+        },
+        {
+          "w": "Index",
+          "start": 1.678,
+          "end": 2.053
+        },
+        {
+          "w": "of",
+          "start": 2.053,
+          "end": 2.168
+        },
+        {
+          "w": "379",
+          "start": 2.168,
+          "end": 3.522
+        },
+        {
+          "w": "on",
+          "start": 3.522,
+          "end": 3.709
+        },
+        {
+          "w": "November",
+          "start": 3.709,
+          "end": 4.116
+        },
+        {
+          "w": "fourth.",
+          "start": 4.116,
+          "end": 4.496
+        }
+      ],
+      "start": 44.92,
+      "duration": 5.21
+    },
+    {
+      "index": 10,
+      "kind": "story",
+      "file": "audio/scene_10.mp3",
+      "spoken_text": "Adani Airports advised foreign airlines to shift operations to Navi Mumbai.",
+      "on_screen": "Foreign Airlines Directed To Move",
+      "words": [
+        {
+          "w": "Adani",
+          "start": 0.1,
+          "end": 0.647
+        },
+        {
+          "w": "Airports",
+          "start": 0.647,
+          "end": 1.043
+        },
+        {
+          "w": "advised",
+          "start": 1.043,
+          "end": 1.501
+        },
+        {
+          "w": "foreign",
+          "start": 1.501,
+          "end": 1.886
+        },
+        {
+          "w": "airlines",
+          "start": 1.886,
+          "end": 2.324
+        },
+        {
+          "w": "to",
+          "start": 2.324,
+          "end": 2.428
+        },
+        {
+          "w": "shift",
+          "start": 2.428,
+          "end": 2.73
+        },
+        {
+          "w": "operations",
+          "start": 2.73,
+          "end": 3.334
+        },
+        {
+          "w": "to",
+          "start": 3.334,
+          "end": 3.449
+        },
+        {
+          "w": "Navi",
+          "start": 3.449,
+          "end": 3.741
+        },
+        {
+          "w": "Mumbai.",
+          "start": 3.741,
+          "end": 4.173
+        }
+      ],
+      "start": 50.38,
+      "duration": 4.9
+    },
+    {
+      "index": 11,
+      "kind": "outro",
+      "file": "audio/scene_11.mp3",
+      "spoken_text": "That's all for now. Follow us for your daily news from Tamil Nadu and India.",
+      "on_screen": "FOLLOW FOR DAILY NEWS",
+      "words": [
+        {
+          "w": "That's",
+          "start": 0.1,
+          "end": 0.439
+        },
+        {
+          "w": "all",
+          "start": 0.439,
+          "end": 0.657
+        },
+        {
+          "w": "for",
+          "start": 0.657,
+          "end": 0.793
+        },
+        {
+          "w": "now.",
+          "start": 0.793,
+          "end": 1.466
+        },
+        {
+          "w": "Follow",
+          "start": 1.466,
+          "end": 2.274
+        },
+        {
+          "w": "us",
+          "start": 2.274,
+          "end": 2.43
+        },
+        {
+          "w": "for",
+          "start": 2.43,
+          "end": 2.555
+        },
+        {
+          "w": "your",
+          "start": 2.555,
+          "end": 2.701
+        },
+        {
+          "w": "daily",
+          "start": 2.701,
+          "end": 3.003
+        },
+        {
+          "w": "news",
+          "start": 3.003,
+          "end": 3.284
+        },
+        {
+          "w": "from",
+          "start": 3.284,
+          "end": 3.503
+        },
+        {
+          "w": "Tamil",
+          "start": 3.503,
+          "end": 3.795
+        },
+        {
+          "w": "Nadu",
+          "start": 3.795,
+          "end": 4.159
+        },
+        {
+          "w": "and",
+          "start": 4.159,
+          "end": 4.326
+        },
+        {
+          "w": "India.",
+          "start": 4.326,
+          "end": 4.717
+        }
+      ],
+      "start": 55.53,
+      "duration": 5.45
+    }
+  ]
+}
